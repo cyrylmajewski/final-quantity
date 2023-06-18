@@ -7,7 +7,7 @@ const totals = [
   {
     total: {
       amount: {
-        asset: { currency: "GBP", type: "Cash" },
+        asset: { currency: "GBp", type: "Cash" },
         quantity: 100000,
       },
     },
